@@ -1,3 +1,5 @@
+<img src="github.png" />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jishnu-exe/Jishnu-exe/raw/output/github-contribution-grid-snake-dark.svg">
