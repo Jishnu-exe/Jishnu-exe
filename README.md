@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="header.png" />
-</div>
+<img src="header.png" />
 
 <div align="center">
   <picture>
